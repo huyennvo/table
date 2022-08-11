@@ -1,0 +1,21 @@
+th {
+    text-align: center;
+}
+
+.course-id {
+    text-align: center;
+}
+
+.name {
+    text-align: center;
+}
+
+#menu {
+    background-color: #343A40;
+    width: 20vw;
+    overflow: auto;
+}
+
+.table-main th tr {
+    overflow-x: scroll;
+}
