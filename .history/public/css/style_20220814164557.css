@@ -1,0 +1,41 @@
+th {
+    text-align: center;
+}
+
+.course-id {
+    text-align: center;
+}
+
+.name {
+    text-align: center;
+}
+
+#menu {
+    background-color: #343A40;
+    width: 20vw;
+    overflow: auto !important;
+}
+
+table {
+    position: relative;
+}
+
+.table-scroll {
+    overflow-x: scroll;
+    overflow-y: visible;
+    padding-bottom: 5px;
+    width: 100%;
+}
+
+.table thead th {
+    text-align: center;
+}
+
+.cke_reset {
+    width: fit-content !important;
+}
+
+.cke {
+    margin-left: 18.7% !important ;
+    padding-right: 3% !important;
+}

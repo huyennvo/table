@@ -1,0 +1,56 @@
+th {
+    text-align: center;
+}
+
+.course-id {
+    text-align: center;
+}
+
+.name {
+    text-align: center;
+}
+
+#menu {
+    background-color: #343A40;
+    width: 20vw;
+    overflow: auto !important;
+}
+
+table {
+    position: relative;
+}
+
+.table-scroll {
+    overflow-x: scroll;
+    overflow-y: visible;
+    padding-bottom: 5px;
+    width: 100%;
+}
+
+.table thead th {
+    text-align: center;
+}
+
+.cke_reset {
+    /* width: fit-content !important; */
+    width: 610px !important; 
+}
+
+.cke {
+    margin-left: 18.7% !important ;
+    /* padding-right: 4.7% !important; */
+    /* width: 5820px; */
+}
+.vsc-initialized .cke_editable {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.cke_wysiwyg_frame, .cke_wysiwyg_div {
+    background-color: #fff;
+    width: 582px !important;
+}
+.cke_editable {
+    cursor: text;
+    width: 100% !important;
+}
